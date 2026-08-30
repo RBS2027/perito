@@ -4,6 +4,7 @@ on:
     - cron: '5 13 * * *'
     - cron: '5 16 * * *'
     - cron: '5 19 * * *'
+    - cron: '55 23 * * *'
   workflow_dispatch: {}
 permissions:
   contents: write
